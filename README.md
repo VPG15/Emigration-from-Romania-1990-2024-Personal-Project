@@ -1,6 +1,3 @@
-# Emigration-from-Romania-1990-2024-Personal-Project
-Emigration from Romania 1990 - 2024
-
 # Analysis of Permanent Emigration of the Romanian Population (1990 - 2024)
 
 This project analyzes the evolution of permanent emigration from Romania over three decades,
