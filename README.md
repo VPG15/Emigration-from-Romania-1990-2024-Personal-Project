@@ -9,4 +9,4 @@ in Python and interactive visualization in Tableau.
 
 **[👉 View the Dashboard on Tableau Public](https://public.tableau.com/app/profile/vlad.pirvan/viz/EmigrationfromRomania1990-2024/Dashboard1)**
 
-![Dashboard Preview](Emigration from Romania 1990-2024_dashboard.png)
+![Dashboard Preview](Emigration_dashboard.png)
