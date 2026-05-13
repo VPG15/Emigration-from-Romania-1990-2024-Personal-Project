@@ -52,4 +52,5 @@ The final dashboard provides a multi-perspective view of Romanian emigration:
 **Other repository content**
 
 -Permanent Emigration from Romania 1990-2024.twbx: The Tableau source file (Packaged Workbook) containing both the data and the visualization.
--VladPIRVAN_CV_dashboard.png: Picture of the dashboard
+
+-VladPIRVAN_CV_dashboard.png: Picture of the dashboard.
