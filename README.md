@@ -4,7 +4,7 @@ This project analyzes the evolution of permanent emigration from Romania over th
 using official data from the INS (TEMPO Online and Demographic Yearbook from 2024). The project includes data processing
 in Python and interactive visualization in Tableau.
 
-**[👉 View the Dashboard on Tableau Public](https://public.tableau.com/app/profile/vlad.pirvan/viz/EmigrationfromRomania1990-2024/Dashboard1)**
+**[👉 View the Dashboard on Tableau Public](https://public.tableau.com/app/profile/vlad.pirvan/viz/PermanentEmigrationfromRomania1990-2024/Dashboard1?publish=yes)**
 
 ![Dashboard Preview](Emigration_dashboard.png)
 
