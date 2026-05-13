@@ -6,7 +6,7 @@ in Python and interactive visualization in Tableau.
 
 **[👉 View the Dashboard on Tableau Public](https://public.tableau.com/app/profile/vlad.pirvan/viz/PermanentEmigrationfromRomania1990-2024/Dashboard1?publish=yes)**
 
-![Dashboard Preview](Emigration_dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 
 **Phase 1: Data Acquisition & Preprocessing (Python)**
