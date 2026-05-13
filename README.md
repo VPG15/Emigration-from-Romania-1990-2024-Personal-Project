@@ -9,7 +9,7 @@ in Python and interactive visualization in Tableau.
 ![Dashboard Preview](Emigration_dashboard.png)
 
 
-Phase 1: Data Acquisition & Preprocessing (Python)
+**Phase 1: Data Acquisition & Preprocessing (Python)**
 
 The analysis is based on two main sources from the National Institute of Statistics (INS): the TEMPO Online database and the 2024 Demographic Yearbook.
 
@@ -27,7 +27,7 @@ In the Folder notebook:
      Normalization: Calculated the Emigration Rate per 1,000 inhabitants. This was crucial for the map and regional bar charts to ensure a fair comparison between areas with different population densities.
      Data Cleaning: Standardized country names (for the "Departure Destination" chart) and handled historical data inconsistencies to ensure a smooth trend line across three decades.
 
-Phase 2: Geographic Data Preparation (GIS)
+**Phase 2: Geographic Data Preparation (GIS)**
 
 To create the map visualization in the dashboard, I processed spatial data that can be found in the dedicated data/shapefiles folder:
 
@@ -37,7 +37,7 @@ To create the map visualization in the dashboard, I processed spatial data that 
 
     Integration: The refined shapefile (stored in the shapefiles/ folder) was joined with the processed emigration data in Tableau using county codes as the common key.
 
-Phase 3: Interactive Visualization (Tableau)
+**Phase 3: Interactive Visualization (Tableau)**
 
 The final dashboard provides a multi-perspective view of Romanian emigration:
 
